@@ -1,0 +1,20 @@
+﻿
+Friday, 5 August 2022 4:51:39 pm
+
+
+// Port=443
+// With port + without instance
+youtube.com 443 - UP
+google.com 443 - UP
+// Port=32
+// With port + with instance
+192.168.1.1 3200 - DOWN
+192.168.100.1 3200 - DOWN
+// Port=33
+// Changing port 
+192.168.100.69 3300 - DOWN
+// this is a test
+192.168.254.254 3300 - DOWN
+// Port=23
+// Changing port + without instance
+127.0.0.1 23 - DOWN

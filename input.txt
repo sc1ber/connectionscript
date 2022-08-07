@@ -1,0 +1,16 @@
+// Port=443
+// With port + without instance
+youtube.com
+google.com
+// Port=32
+// With port + with instance
+192.168.1.1 00
+192.168.100.1 00
+// Port=33
+// Changing port 
+192.168.100.69 00
+// this is a test
+192.168.254.254 00
+// Port=23
+// Changing port + without instance
+127.0.0.1
